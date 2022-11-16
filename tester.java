@@ -1,4 +1,4 @@
-public class main {
+public class tester {
     public static void main(String [] args){
         User u1 = new User(200405087, "Christopher Lenhardt", true);
 
